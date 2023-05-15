@@ -1,3 +1,3 @@
-This is supposed to be a sort of professional intro card.
+A professional website meant to showcase my understanding of React.js, JavaScript and CSS.
 
-One of my first projects to be made from scratch. It's only purpose is to show my CSS and React skills.
+One of my first projects to be made from scratch.
